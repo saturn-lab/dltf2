@@ -22,15 +22,15 @@
 | 时间段 |           内容            | 讲课 / 实践 |   分工  |   备注   |
 | :----- | :---------------------: | :---------: | :---: | ---: |
 |    5   | 深度学习2：网络训练   |    讲课     |  CZ   |  接上节课 30 min   |
-|    5   | 深度学习2：网络训练示例，[猜测性别(Logistic回归)](../../Computing/logistic_regression/logistic_regression_scratch.ipynb)   |   实践     |  ZY   |  15 min   |
+|    5   | 深度学习2：网络训练示例，[猜测性别(Logistic回归)](../../DeepLearning/logistic_regression/logistic_regression_scratch.ipynb)   |   实践     |  ZY   |  15 min   |
 
 
 ## TensorFlow初步
 
 | 时间段 |           内容            | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :---------------------: | :---------: | :---: | ---: |
-|    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)  |    讲课     | WX  |  20 min   |
-|    6   | [Tensor操作实验](../../Computing/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)  |    讲课     | WX  |  20 min   |
+|    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic]()  |    讲课     | WX  |  20 min   |
+|    6   | [Tensor操作实验](../../DeepLearning/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)  |    讲课     | WX  |  20 min   |
 |    6   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  WX  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
