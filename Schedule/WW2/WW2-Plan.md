@@ -30,15 +30,21 @@
 | 时间段 |           内容            | 讲课 / 实践 | 分工  | 备注 |
 | :----- | :---------------------: | :---------: | :---: | ---: |
 |    6   | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic]()  |    讲课     | WX  |  20 min   |
-|    6   | [Tensor操作实验](../../DeepLearning/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)  |    讲课     | WX  |  20 min   |
 |    6   | [TensorFlow PlayGround](https://playground.tensorflow.org/)介绍  |  实践   |  WX  |  练习：分类螺旋线问题，截图发在微信群   |
 
 
+## TensorFlow深入
+
+| 时间段 |       内容         | 讲课 / 实践 | 分工  | 备注 |
+| :----- | :------------: | :---------: | :-----: | -----: |
+|    7   | [TensorFlow2基础：张量、变量、自动微分、即刻执行](../../DeepLearning/TensorFlow2-basic.md)  |    实践     |  TA   |   45 min x3    |
+|    7   | [Tensor操作实验](../../DeepLearning/TensorFlow2/learnTensorFlow2/notebooks/1_Introduction/basic_operations.ipynb)  |    讲课     | WX  |  20 min   |
+
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :------:  | :----:  |    :----:    | ---: |
-|   7  |  课程小结，[展望下节课](../WW3/WW3-Plan.md)       |     |  CZ |   |
+|   8  |  课程小结，[展望下节课](../WW3/WW3-Plan.md)       |     |  CZ |   |
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  | 备注       |
 | :---      |   :-------:    |   :----:    |    :----:    |       ---: |
 |   1      | 实验代码的验收     |  实验   |     CZ/GM/ZY/WX     |    腾会会议室开启等候室，排队验收     |
-|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |   最迟至10月27日下午1点      |
+|   2      | 学习小结 上交至[Study-Memo](../../Memos/Study-Memo)    |  实践    |     CZ&TAs     |          |
