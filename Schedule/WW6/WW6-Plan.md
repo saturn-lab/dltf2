@@ -16,26 +16,26 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   2    | TensorFlow全景（TensorFlow deeper）      |    讲课     |    CZ    |    20 min    |
-|   2    | TensorFlow-Lite（TensorFlow lite）       |    讲课     |    WX    |    Optional    |
+|   3    | TensorFlow全景（TensorFlow deeper）      |    讲课     |    CZ    |    20 min    |
+|   3    | TensorFlow-Lite（TensorFlow lite）       |    讲课     |    WX    |    Optional    |
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   3    | 循环网络：CTC/语音识别       |    讲课     |    CZ    |    40 min    |
+|   4    | 循环网络：CTC/语音识别       |    讲课     |    CZ    |    40 min    |
 
 ## =辅导大作业=
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   4    | 声控智能实践介绍 |    讲课     |    ZY    | 20 min             |
-|   4    | [audioPlot](https://github.com/saturn-lab/audioPlot) 介绍 |    讲课     |    ZY    | 5 min             |
-|   4    | [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    ZY    | 5 min             |
-|   4    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     ZY     | 5 min             |
+|   5    | 声控智能实践介绍 |    讲课     |    ZY    | 20 min             |
+|   5    | [audioPlot](https://github.com/saturn-lab/audioPlot) 介绍 |    讲课     |    ZY    | 5 min             |
+|   5    | [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    ZY    | 5 min             |
+|   5    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     ZY     | 5 min             |
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   4    |（[课程大作业](../../Course-Projects/4_Final_Project/DLTF2-Task-说明.md)）答疑  |    讲课     |    TAs    | 20 min             |
+|   6    |（[课程大作业](../../Course-Projects/4_Final_Project/DLTF2-Task-说明.md)）答疑  |    讲课     |    TAs    | 20 min             |
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   7    |         课程总结(Conclusion.md)         |             |     CZ      |                    |
+|   7    |         [课程总结](Conclusion.md)         |             |     CZ      |                    |
