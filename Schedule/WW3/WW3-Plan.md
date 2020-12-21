@@ -13,6 +13,13 @@
 |    2   | [TensorFlow2基础：计算图、模型、训练流程](../../DeepLearning/TensorFlow2-basic.md)  |    实践     |  TA   |   45 min x3    |
 
 
+## Keras深入
+
+|时间段 |  内容    | 讲课 / 实践     |  分工  |  备注       |
+| :--- |   :----:    |   :----:    |    :----:    | ---: |
+|   3  | [TensorFlow2-Keras：总体、模型与层、训练与评估和顺序模型](../../DeepLearning/TensorFlow2-Keras-basic.md)   | 讲课 |  CZ   |  20 min   |
+
+
 |时间段  |  内容    | 讲课 / 实践  |  分工  |  备注       |
 | :---  |  :------:  | :----:  |    :----:    | ---: |
 |   4  |  课程小结，[展望下节课](../WW4/WW4-Plan.md)       |     |  CZ |   |
