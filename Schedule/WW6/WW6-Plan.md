@@ -33,7 +33,7 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   5    | 声控智能实践介绍 |    讲课     |    ZY    | 20 min             |
+|   5    | 声控智能实践-课程项目介绍 |    讲课     |    CZ/ZY    | 20 min             |
 |   5    | [audioPlot](https://github.com/saturn-lab/audioPlot) 介绍 |    讲课     |    ZY    | 5 min             |
 |   5    | [audioNet](https://github.com/saturn-lab/audioNet) 介绍 |    讲课     |    ZY    | 5 min             |
 |   5    | [androidAudioRecg](https://github.com/saturn-lab/androidAudioRecg) 介绍 |    讲课     |     ZY     | 5 min             |
@@ -41,7 +41,7 @@ Bring Your Laptop and smart phone  to Class.
 
 | 时间段 |                             内容                             | 讲课 / 实践 |    分工     | 备注               |
 | :----- | :----------------------------------------------------------: | :---------: | :---------: | :----------------- |
-|   6    | easyHelmet介绍 |    讲课     |    ZY    | 20 min             |
+|   6    | easyHelmet-课程项目介绍 |    讲课     |    CZ/ZY    | 20 min             |
 
 ## =课程大作业= （可选）
 
